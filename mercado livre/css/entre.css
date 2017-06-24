@@ -1,0 +1,112 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+#cabecalho{
+  background-color: rgb(10,33,133);
+  width: 100%;
+  height: 120px;
+  position: fixed;
+}
+#campopesquisa{
+  margin-left: -1200px;
+  margin-top: -5px;
+
+
+}
+#campodebusca{
+  width: 500px;
+  height: 30px;
+
+}
+#botaoenviar{
+  width: 25px;
+  height: 25px;
+  margin-bottom: -10px;
+}
+#logo{
+  width:110px;
+  height: 110px;
+  margin-top: 5px;
+  margin-left: -1500px;
+}
+#listamenu{
+  float: left;
+  list-style:none;
+  display:inline;
+  position:relative;
+  margin-left: 1200px;
+  margin-top: 50px;
+}
+.limenu{
+  float: left;
+  display: table;
+  margin-left: 30px;
+  font-size: 25pt;
+  color: red;
+  font-family: sans-serif;
+}
+body{
+  background-color: black;
+}
+#fundo2{
+  width: 100%;
+}
+h1{
+  font-size:40pt;
+  margin-left: 850px;
+  margin-top: -1200px;
+  font-family: sans-serif;
+  color: white;
+}
+#formulario{
+  border: transparent;
+  color: black;
+  font-size: 20pt;
+  margin-top: 100px;
+  margin-left: 80px;
+  background-color: black;
+
+}
+.campo{
+  margin-left: 470px;
+  font-family: sans-serif;
+  font-size: 35pt;
+}
+#email{
+  width: 530px;
+  height: 35px;
+}
+#senha{
+  width: 500px;
+  height: 35px;
+}
+#busca{
+  margin-left: 700px;
+  margin-top: 45px;
+  width: 300px;
+  height: 45px;
+  font-family: sans-serif;
+  font-size: 20pt;
+}
+#pe{
+  border: 1px solid transparent;
+  background-color: rgb(10,33,133);
+  margin-top: 770px;
+  height: 80px;
+}
+#pe p{
+  text-align: center;
+  margin-top: 10px;
+  margin-left: -50px;
+}
+.icon{
+  float: left;
+  display: table;
+  position: relative;
+  width: 50px;
+  height: 50px;
+  list-style: none;
+  margin-top: -25px;
+  margin-left: 550px;
+}

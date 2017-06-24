@@ -1,0 +1,138 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+#cabecalho{
+  background-color: rgb(10,33,133);
+  height: 120px;
+  width: 100%;
+  position: fixed;
+}
+#campopesquisa{
+  margin-left: -1200px;
+  margin-top:-5px;
+
+
+}
+#campodebusca{
+  width: 500px;
+  height: 30px;
+
+}
+#botaoenviar{
+  width: 25px;
+  height: 25px;
+  margin-bottom: -10px;
+}
+#logo{
+  width:110px;
+  height: 110px;
+  margin-top: 5px;
+  margin-left: -1500px;
+}
+#listamenu{
+  float: left;
+  list-style:none;
+  display:inline;
+  position:relative;
+  margin-left: 1200px;
+  margin-top: 50px;
+}
+.limenu{
+  float: left;
+  display: table;
+  margin-left: 30px;
+  font-size: 25pt;
+  color: red;
+  font-family: sans-serif;
+}
+#slide{
+  width: 100%;
+  height: 500px;
+}
+body{
+  background-color:black;
+}
+#fundo2{
+  width: 100%;
+  margin-top: -5px;
+}
+h1{
+  margin-left: 600px;
+  margin-top: -1750px;
+  font-size: 50pt;
+  font-family: sans-serif;
+  color: white;
+}
+h3{
+  margin-left: 790px;
+  margin-top: 60px;
+  font-family:sans-serif;
+  font-size: 30pt;
+  color: white;
+}
+#produto1{
+  border:1px solid red ;
+  margin-top:3px;
+  width: 1690px;
+  height: 390px;
+  margin-left: 100px;
+}
+.dom{
+  width: 350px;
+  height: 350px;
+  margin-left: 130px;
+  margin-top: 10px;
+}
+
+#produto2{
+  border: 1px solid blue;
+  margin-left: 100px;
+  width: 1690px;
+  height: 500;
+}
+.sab{
+  width: 350px;
+  height: 350px;
+  margin-left: 130px;
+  margin-top: 10px;
+}
+#produto3{
+  border: 1px solid green;
+  width: 1690px;
+  height: 500px;
+  margin-left: 100px;
+
+}
+.sex{
+  width: 350px;
+  height: 350px;
+  margin-left: 130px;
+  margin-top: 10px;
+}
+#legenda{
+  width: 5px;
+  height: 5px;
+}
+#pe{
+  border: 1px solid transparent;
+  background-color: rgb(10,33,133);
+  margin-top: 90px;
+  width: 1796px;
+  height: 80px;
+}
+#pe p{
+  text-align: center;
+  margin-top: 10px;
+  margin-left: -50px;
+}
+.icon{
+  float: left;
+  display: table;
+  position: relative;
+  width: 50px;
+  height: 50px;
+  list-style: none;
+  margin-top: -25px;
+  margin-left: 550px;
+}
